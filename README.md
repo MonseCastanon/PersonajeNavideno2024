@@ -45,6 +45,8 @@ https://wokwi.com/projects/410226763090944001
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos. En un solo documento el enlace TODO.
+### Enlace del video
+https://drive.google.com/file/d/1IbWh8wg6WwmR1f5ClTEl9ccsspR2sbC-/view?usp=sharing 
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C. 
